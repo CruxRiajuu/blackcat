@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Sketch - Headshot",
+    "price": 5.00,
+    "image": ""
+  },
+  {
+    "id": 2,
+    "name": "Sketch - Halfbody",
+    "price": 10.00,
+    "image": ""
+  },
+  {
+    "id": 3,
+    "name": "Sketch - Fullbody",
+    "price": 30.00,
+    "image": ""
+  },
+  {
+    "id": 4,
+    "name": "Outlined Greyscale - Headshot",
+    "price": 10.00,
+    "image": ""
+  },
+    {
+    "id": 5,
+    "name": "Outlined Greyscale - Halfbody",
+    "price": 20.00,
+    "image": ""
+  },
+  {
+    "id": 6,
+    "name": "Outlined Greyscale - Fullbody",
+    "price": 30.00,
+    "image": ""
+  },
+  {
+    "id": 7,
+    "name": "Color - Headshot",
+    "price": 25.00,
+    "image": ""
+  },
+  {
+    "id": 8,
+    "name": "Color - Halfbody",
+    "price": 40.00,
+    "image": ""
+  },
+    {
+    "id": 9,
+    "name": "Color - Fullbody",
+    "price": 60.00,
+    "image": ""
+  },
+    {
+    "id": 10,
+    "name": "Chibi",
+    "price": 10.00,
+    "image": ""
+  },
+    {
+    "id": 11,
+    "name": "Accessories Add-On",
+    "price": 5.00,
+    "image": ""
+   },
+    {
+    "id": 12,
+    "name": "Background Add-On",
+    "price": 15.00,
+    "image": ""
+  },
+    {
+    "id": 13,
+    "name": "Painted Add-On",
+    "price": 20.00,
+    "image": ""
+  },
+    {
+    "id": 14,
+    "name": "Realistic Add-On",
+    "price": 25.00,
+    "image": ""
+  }
+]
